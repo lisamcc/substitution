@@ -1,0 +1,8 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\lmccle0315\Documents\apcomputerprojects\ciphers-master\substitution_cipher.py 
+I pledge alleginace to the flag of the United States of America and to the republic for which it stands.One nation under God, indivisible, with libery and justice for all.
+O fktrut qkktuohqet zg zit ykqu gy zit Xhoztr Azqzta gy Qjtsoeq qhr zg zit stfxwkoe ygs vioei oz azqhra8Ght hqzogh xhrts Ugr7 ohrocoaowkt7 vozi kowtsn qhr pxazoet ygs qkk8
+I pledge alleginace to the flag of the United States of America and to the republic for which it stands.One nation under God, indivisible, with libery and justice for all.
+>>> 
